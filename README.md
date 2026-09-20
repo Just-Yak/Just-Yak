@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&letterSpacing=1px&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=435&height=125&lines=Wake+up%2C+Visitor...;The+Matrix+has+you...;Follow+me+on%3A+https://yak-khev-portfolio" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&letterSpacing=1px&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=435&height=125&lines=Wake+up%2C+Visitor...;The+Matrix+has+you...;Follow+me+on%3A+mysite.com" alt="Typing SVG" /></a>
 <br> follow the white rabbit 🐇💨: [link]
 
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving gif" width=35 height=35> Im Yasha! <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" alt="cool gif" width=45 height=45> </h1>
