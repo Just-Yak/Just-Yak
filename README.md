@@ -25,12 +25,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/just-yak/just-yak/output/github-snake-dark.svg" />
 </picture>
 
-<h3 align="left">Stats:</h3>
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=just-yak&layout=compact)
-<br>
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=yak980)
-<br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=just-yak&theme=dark)](https://github.com/just-yak/leetcode-stats)
+
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
